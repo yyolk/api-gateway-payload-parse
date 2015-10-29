@@ -1,0 +1,38 @@
+{
+  "name": "api-gateway-payload-parse",
+  "version": "0.0.1",
+  "description": "Utility function for easier parsing of the AWS API-Gateway built-in mapping template functions, like `input.params()`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyolk/api-gateway-payload-parse.git"
+  },
+  "keywords": [
+    "api-gateway",
+    "aws",
+    "parse",
+    "payload",
+    "event",
+    "aws-api-gateway",
+    "velocity",
+    "text",
+    "querystring",
+    "template-mapping",
+    "api-gateway-template",
+    "template",
+    "api-gateway-templat-mapping"
+  ],
+  "author": {
+    "name": "Joseph Yølk Chiocchi",
+    "email": "joe@yolk.cc",
+    "url": "http://yolk.cc"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyolk/api-gateway-payload-parse/issues"
+  },
+  "homepage": "https://github.com/yyolk/api-gateway-payload-parse#readme"
+}
