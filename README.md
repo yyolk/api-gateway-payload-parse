@@ -33,11 +33,11 @@ Instead of making complex mapping templates, this module remaps:
 
     "{fields=id, anotherKey=aParam%2CanotherParam}"
 
-to 
+to a javascript object:
 
     {
       fields: "id"
-      anotherKey="aParam,anotherParam"
+      anotherKey: "aParam,anotherParam"
     }
 
 
