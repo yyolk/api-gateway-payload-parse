@@ -43,7 +43,7 @@ to a javascript object:
 
 ## Install
 ```sh
-$ npm install --save lambda-sns-event-message
+$ npm install --save api-gateway-payload-parse
 ```
 
 ## Usage
