@@ -1,5 +1,7 @@
 'use strict';
 
+var querystring = require('querystring');
+
 module.exports = function(s) {
   var ret = {};
   s = s
