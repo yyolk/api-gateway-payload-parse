@@ -1,4 +1,4 @@
-# api-gateway-payload-parse
+# api-gateway-payload-parse [![Build Status](https://travis-ci.org/yyolk/api-gateway-payload-parse.svg?branch=master)](https://travis-ci.org/yyolk/api-gateway-payload-parse)
 Utility function for easier parsing of the AWS API-Gateway built-in mapping template functions, like `input.params()`.
 
 ## Overview
