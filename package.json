@@ -1,6 +1,6 @@
 {
   "name": "api-gateway-payload-parse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utility function for easier parsing of the AWS API-Gateway built-in mapping template functions, like `input.params()`.",
   "main": "index.js",
   "scripts": {

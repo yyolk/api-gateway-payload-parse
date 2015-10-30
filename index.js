@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = function(s) {
-  ret = {};
+  var ret = {};
   s = s
-    .replace(/^{/g, '')
+    .replace(/^\{/g, '')
     .replace(/\}$/g, '')
     .split(/, /);
   s.forEach(function(t) {
     var q = querystring.decode(t);
-    for (k in q) {
+    for (var k in q) {
       ret[k] = q[k];
     };
   });
